@@ -14,7 +14,7 @@ for markdown_post in os.listdir('content'):
 
     
 POSTS = {
-    post: POSTS[post] for post in sorted(POSTS, key=lambda post: datetime.strptime(POSTS[post].metadata['date'], '%Y-%m-%d'), reverse=True)
+    post: POSTS[post] for post in sorted(POSTS, key=lambda post: datetime.strptime(POSTS[post].metadata['date'], '%d-%m-%Y'), reverse=True)
 }
 # skilgreina template sem á að nota
 env = Environment(loader=PackageLoader('main', 'templates'))
