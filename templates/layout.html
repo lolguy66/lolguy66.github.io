@@ -7,15 +7,25 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/picnic@6.5.0/picnic.min.css">
     <title>My Recipes</title>
+    <style>
+        .container {
+            width: 80%;
+            margin: auto;
+            margin-top: 3em;
+        }
+
+        .mybutton {
+            background: #f7786b;
+            font-size: 0.75em;
+        }
+    </style>
+
 </head>
-<body class="container">
+<body class="container" style="background-color: khaki;">
     
     {% block content %} {% endblock %}
 
     <br>
-    {% set list_of_tags = post.tags.split(",") %}
-    {% for tag in list_of_tags %}
-    <button class="shyButton mybutton">{{ tag }}</button>
-    {% endfor %}
+
 </body>
 </html>
