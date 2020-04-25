@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   style="enable-background:new"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 54.446564 54.44656"
+   height="54.44656mm"
+   width="54.446564mm">
+  <style
+     type="text/css"
+     id="style2">
+      .hringurfad {
+         opacity: 100;
+         animation-name: litir;
+         animation-duration: 2s;
+         animation-iteration-count: infinite;
+      }
+      @keyframes litir {
+         0%   {fill:red; fill-opacity:1;}
+         25%  {fill:yellow;}
+         50%  {fill:blue;}
+         75%  {fill:green;}
+         100% {fill:red;}
+      }
+      .txtrot {
+         animation-name:jump
+         animation-duration: 4s;
+         animation-iteration-count: infinite;
+      }
+      @keyframes jump {
+         0% {
+            
+         }
+         100% {
+            transform: translateY(25);
+         }
+      }
+
+   </style>
+  <defs
+     id="defs2">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient851">
+      <stop
+         id="stop849"
+         offset="0"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="fill:#ffffff"
+     transform="matrix(2.4849183,0,0,2.4849183,-127.27434,-299.14971)"
+     id="layer2">
+    <path
+       d="m 73.067497,130.17735 a 10.955403,10.955403 0 0 1 -9.307144,12.00415 10.955403,10.955403 0 0 1 -12.356433,-8.83409 10.955403,10.955403 0 0 1 8.347709,-12.69008 10.955403,10.955403 0 0 1 13.004604,7.84874"
+       id="path823"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(3.5416667e-7,-1.0416666e-6)"
+       class="hringurfad">
+      <title
+         id="title4537">Hringur</title>
+    </path>
+  </g>
+  <g
+     transform="matrix(2.4849183,0,0,2.4849183,-128.06151,-299.14971)"
+     style="display:inline"
+     id="layer1">
+    <g
+       id="text817"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       aria-label="T">
+      <title
+         id="title4533"
+         class="txtrot">T</title>
+    </g>
+    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot823"
+       xml:space="preserve"><flowRegion
+         id="flowRegion825"><rect
+           y="384.47699"
+           x="101.6466"
+           height="331.4563"
+           width="320.40778"
+           id="rect827" /></flowRegion><flowPara
+         id="flowPara829" /></flowRoot>    <path
+       id="path2316"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       d="m 63.217992,127.68513 h -2.749186 v 6.78512 h -1.023193 v -6.78512 h -2.749187 v -0.90951 h 6.521566 z"
+       transform="translate(3.5416667e-7,-1.0416666e-6)" />
+    <g
+       id="text821"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       aria-label="D"
+       transform="translate(3.5416667e-7,-1.0416666e-6)">
+      <title
+         class="txtrot"
+         id="title4535">D</title>
+      <path
+         id="path2313"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         d="m 68.285385,132.35957 q 0,1.04903 -0.45992,1.90169 -0.454753,0.85266 -1.214396,1.32292 -0.5271,0.32556 -1.178223,0.47025 -0.645955,0.1447 -1.705322,0.1447 H 61.78449 v -7.69462 h 1.922363 q 1.126546,0 1.788005,0.16536 0.666626,0.1602 1.126546,0.44442 0.785482,0.49092 1.224731,1.30741 0.43925,0.81649 0.43925,1.93787 z m -1.069702,-0.0155 q 0,-0.90434 -0.315226,-1.52446 -0.315227,-0.62012 -0.940511,-0.97668 -0.454753,-0.25839 -0.96635,-0.35657 -0.511596,-0.10335 -1.224731,-0.10335 h -0.961182 v 5.93762 h 0.961182 q 0.738973,0 1.286743,-0.10852 0.552938,-0.10852 1.012858,-0.40308 0.573608,-0.3669 0.857829,-0.96635 0.289388,-0.59944 0.289388,-1.49861 z" />
+    </g>
+  </g>
+</svg>

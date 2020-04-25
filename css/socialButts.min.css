@@ -1,0 +1,71 @@
+/***********Social butts******************/
+.sMedia {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row;
+          flex-flow: row;
+  position: relative;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.sMedia a {
+  display: block;
+  margin: 0 .5em;
+  padding: 0;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+.bubbles,
+.facebook,
+.github,
+.soundcloud {
+  position: relative;
+  height: 2em;
+  width: 2.5em;
+  padding: .8em 0 0 0;
+  border-radius: 50%;
+  background-color: #8b7f51;
+  -webkit-transition: width 1s ease;
+  transition: width 1s ease;
+}
+
+/**************** hover effects ******************/
+.bubbles:hover,
+.facebook:hover,
+.github:hover,
+.soundcloud:hover {
+  background-color: #a79a69;
+  -webkit-transition: width 1s ease;
+  transition: width 1s ease;
+}
+
+/************RWD social Butts ***********/
+@media screen and (min-width: 60em) {
+  .sMedia {
+    display: block;
+    position: fixed;
+    top: 7em;
+    right: .4em;
+    height: 10em;
+    width: 2.5em;
+  }
+  .sMedia div {
+    width: 2.5em;
+    margin: .2em 0;
+    padding: .6em 0 0 0;
+  }
+  .bubbles,
+  .facebook2,
+  .github,
+  .soundcloud2 {
+    padding: .6em .6em 0 0;
+  }
+}
+/*# sourceMappingURL=socialButts.min.css.map */

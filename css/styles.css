@@ -1,0 +1,345 @@
+body {
+  background-color: bisque;
+}
+
+.mybutt {
+  display: block;
+  width: 6em;
+  font-size: 1.2em;
+  color: #ff8;
+  background: #f7786b;
+  text-decoration: none;
+  font-style: oblique;
+  text-align: center;
+  padding: .2em .5em;
+  margin: .5em 0;
+  border-radius: .5em;
+  border: 1px solid #7e7eff;
+}
+
+.card {
+  border-radius: .5em;
+  border: 1px solid #7e7eff;
+  background-color: #ffffff;
+  border-radius: -5px 10px 10 px;
+  padding: 1em;
+}
+
+.card2 {
+  background-color: aliceblue;
+  border-radius: .5em;
+  border: 1px solid #7e7eff;
+  padding: 1em;
+  -webkit-box-shadow: -5px 10px 10px gray;
+          box-shadow: -5px 10px 10px gray;
+}
+
+.auglysing {
+  border: 1px solid red;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.stretch {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
+
+.topmenu a {
+  display: block;
+  padding: .9em 1em;
+  color: #592550;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.topmenu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: column;
+  flex-flow: column;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  list-style-type: none;
+  margin: 0 0 .5em 0;
+  padding: 0;
+}
+
+@media screen and (min-width: 37.5em) {
+  .topmenu {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row;
+    flex-flow: row;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+  }
+}
+
+.container {
+  max-width: 70em;
+  margin: auto;
+  margin-top: 3em;
+}
+
+.col-2 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+}
+
+.col-3 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+}
+
+.headcol-2 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 2fr;
+      grid-template-columns: 1fr 2fr;
+}
+
+.col-3-1 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 3fr 1fr;
+      grid-template-columns: 3fr 1fr;
+}
+
+.col-4 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+@media screen and (min-width: 37.5em) {
+  .col-2 {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    grid-gap: 2em;
+  }
+  .col-3 {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    grid-gap: 2em;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .col-2 {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    grid-gap: 2em;
+  }
+  .col-3 {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2em;
+  }
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src: url("../icomoon/fonts/icomoon.eot?4p439f");
+  src: url("../icomoon/fonts/icomoon.eot?4p439f#iefix") format("embedded-opentype"), url("../icomoon/fonts/icomoon.ttf?4p439f") format("truetype"), url("../icomoon/fonts/icomoon.woff?4p439f") format("woff"), url("../icomoon/fonts/icomoon.svg?4p439f#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bread:before {
+  content: "\e900";
+}
+
+.icon-desserts:before {
+  content: "\e902";
+}
+
+.icon-maincourses:before {
+  content: "\e903";
+}
+
+.icon-starters:before {
+  content: "\e904";
+}
+
+.icon-home:before {
+  content: "\e901";
+}
+
+.icon-pacman:before {
+  content: "\e916";
+}
+
+.icon-bubbles:before {
+  content: "\e96c";
+}
+
+.icon-glass:before {
+  content: "\e9a0";
+}
+
+.icon-list2:before {
+  content: "\e9bb";
+}
+
+.icon-star-empty:before {
+  content: "\e9d7";
+}
+
+.icon-star-half:before {
+  content: "\e9d8";
+}
+
+.icon-star-full:before {
+  content: "\e9d9";
+}
+
+.icon-heart:before {
+  content: "\e9da";
+}
+
+.icon-happy2:before {
+  content: "\e9e0";
+}
+
+.icon-smile2:before {
+  content: "\e9e2";
+}
+
+.icon-tongue2:before {
+  content: "\e9e4";
+}
+
+.icon-wink2:before {
+  content: "\e9e8";
+}
+
+.icon-checkmark:before {
+  content: "\ea10";
+}
+
+.icon-facebook2:before {
+  content: "\ea91";
+}
+
+.icon-github:before {
+  content: "\eab0";
+}
+
+.icon-soundcloud2:before {
+  content: "\eac4";
+}
+
+/***********Social butts******************/
+.sMedia {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row;
+          flex-flow: row;
+  position: relative;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.sMedia a {
+  display: block;
+  margin: 0 .5em;
+  padding: 0;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+.bubbles,
+.facebook,
+.github,
+.soundcloud {
+  position: relative;
+  height: 2em;
+  width: 2.5em;
+  padding: .8em 0 0 0;
+  border-radius: 50%;
+  background-color: #8b7f51;
+  -webkit-transition: width 1s ease;
+  transition: width 1s ease;
+}
+
+/**************** hover effects ******************/
+.bubbles:hover,
+.facebook:hover,
+.github:hover,
+.soundcloud:hover {
+  background-color: #a79a69;
+  -webkit-transition: width 1s ease;
+  transition: width 1s ease;
+}
+
+/************RWD social Butts ***********/
+@media screen and (min-width: 60em) {
+  .sMedia {
+    display: block;
+    position: fixed;
+    top: 7em;
+    right: .4em;
+    height: 10em;
+    width: 2.5em;
+  }
+  .sMedia div {
+    width: 2.5em;
+    margin: .2em 0;
+    padding: .6em 0 0 0;
+  }
+  .bubbles,
+  .facebook2,
+  .github,
+  .soundcloud2 {
+    padding: .6em .6em 0 0;
+  }
+}
+/*# sourceMappingURL=styles.css.map */

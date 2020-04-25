@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new"
+   width="54.446564mm"
+   height="91.4935mm"
+   viewBox="0 0 54.446564 91.4935"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="takedevOld.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview39"
+     showgrid="false"
+     inkscape:zoom="0.68247107"
+     inkscape:cx="119.00904"
+     inkscape:cy="172.9011"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <style
+     id="style2"
+     type="text/css">
+      .hringurfad {
+         opacity: 100;
+         animation-name: litir;
+         animation-duration: 2s;
+         animation-iteration-count: infinite;
+      }
+      @keyframes litir {
+         0%   {fill:red; fill-opacity:1;}
+         25%  {fill:yellow;}
+         50%  {fill:blue;}
+         75%  {fill:green;}
+         100% {fill:red;}
+      }
+      .txtrot {
+         animation-name:jump
+         animation-duration: 4s;
+         animation-iteration-count: infinite;
+      }
+      @keyframes jump {
+         0% {
+            
+         }
+         100% {
+            transform: translateY(25);
+         }
+      }
+
+   </style>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient851"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop849" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer2"
+     transform="matrix(2.4849183,0,0,2.4849183,-127.27434,-299.14971)">
+    <path
+       class="hringurfad"
+       transform="translate(3.5416667e-7,-1.0416666e-6)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path823"
+       d="m 73.067497,130.17735 a 10.955403,10.955403 0 0 1 -9.307144,12.00415 10.955403,10.955403 0 0 1 -12.356433,-8.83409 10.955403,10.955403 0 0 1 8.347709,-12.69008 10.955403,10.955403 0 0 1 13.004604,7.84874"
+       inkscape:connector-curvature="0">
+      <title
+         id="title4537">Hringur</title>
+    </path>
+  </g>
+  <g
+     id="layer1"
+     style="display:inline"
+     transform="matrix(2.4849183,0,0,2.4849183,-128.06151,-299.14971)">
+    <g
+       aria-label="T"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text817">
+      <title
+         class="txtrot"
+         id="title4533">T</title>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot823"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion825"><rect
+           id="rect827"
+           width="320.40778"
+           height="331.4563"
+           x="101.6466"
+           y="384.47699" /></flowRegion><flowPara
+         id="flowPara829" /></flowRoot>    <path
+       transform="translate(3.5416667e-7,-1.0416666e-6)"
+       d="m 63.217992,127.68513 h -2.749186 v 6.78512 h -1.023193 v -6.78512 h -2.749187 v -0.90951 h 6.521566 z"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="path2316" />
+    <g
+       transform="translate(3.5416667e-7,-1.0416666e-6)"
+       aria-label="D"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text821">
+      <title
+         id="title4535"
+         class="txtrot">D</title>
+      <path
+         d="m 68.285385,132.35957 q 0,1.04903 -0.45992,1.90169 -0.454753,0.85266 -1.214396,1.32292 -0.5271,0.32556 -1.178223,0.47025 -0.645955,0.1447 -1.705322,0.1447 H 61.78449 v -7.69462 h 1.922363 q 1.126546,0 1.788005,0.16536 0.666626,0.1602 1.126546,0.44442 0.785482,0.49092 1.224731,1.30741 0.43925,0.81649 0.43925,1.93787 z m -1.069702,-0.0155 q 0,-0.90434 -0.315226,-1.52446 -0.315227,-0.62012 -0.940511,-0.97668 -0.454753,-0.25839 -0.96635,-0.35657 -0.511596,-0.10335 -1.224731,-0.10335 h -0.961182 v 5.93762 h 0.961182 q 0.738973,0 1.286743,-0.10852 0.552938,-0.10852 1.012858,-0.40308 0.573608,-0.3669 0.857829,-0.96635 0.289388,-0.59944 0.289388,-1.49861 z"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         id="path2313" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="0.17584129"
+     y="62.613537"
+     id="text831"><title
+       id="title1199">Name</title><tspan
+       id="tspan829"
+       x="0.17584129"
+       y="62.613537"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Takeodevelopement.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="0.9571895"
+     y="70.236053"
+     id="text835"><title
+       id="title1197">slogan</title><tspan
+       id="tspan833"
+       x="0.9571895"
+       y="70.236053"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Small studio, big games.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     x="6.0125217"
+     y="90.925743"
+     id="text839"><title
+       id="title1191">inDev</title><tspan
+       id="tspan837"
+       x="6.0125217"
+       y="90.925743"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Website still in developement.</tspan></text>
+  <g
+     id="g850"
+     transform="translate(30.217841,53.08539)">
+    <title
+       id="title1201">buttongroup</title>
+    <g
+       id="g855"
+       transform="translate(60.43568,2.4500951)">
+      <rect
+         style="fill:#ff2350;fill-opacity:0.45212767;stroke:#bb0000;stroke-width:0.52916664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect841"
+         width="51.179764"
+         height="14.156105"
+         x="-89.020119"
+         y="17.422899"
+         ry="3.811259">
+        <title
+           id="title1205">button</title>
+      </rect>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-80.115524"
+         y="28.312212"
+         id="text845"><title
+           id="title1203">buttontext</title><tspan
+           id="tspan843"
+           x="-80.115524"
+           y="28.312212"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Website</tspan></text>
+    </g>
+  </g>
+</svg>
