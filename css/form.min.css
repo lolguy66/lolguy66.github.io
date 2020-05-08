@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+form {
+  max-width: 450px;
+  margin: 0 auto;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/*# sourceMappingURL=form.min.css.map */
